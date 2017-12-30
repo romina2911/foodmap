@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Comfortaa', cursive;
+  }
+.app-background{
+    background-image: url(../assets/img/foodbackground.jpg);
+}
+
+.container-flex-column{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+    align-items: center;
+}
+.vh100 {
+	height: 100vh;
+}
+
+.welcome{
+    color: tomato;
+    font-size: 71px;
+    font-weight: 700;
+    position: relative;
+    top: 2.8em;
+}
+.home-body{
+    background-color: blanchedalmond;
+}
+.home-text{
+    color: tomato;
+    font-size: 50px;
+    font-weight: 700;
+    position: relative;
+    top: 0.3em;
+    text-align: center;
+}
+.map{
+    height: 20vh;
+    width: 25vw;
+    position: relative;
+    left: 7em;
+    top: 3em;
+    padding: 2em;
+  }
+.navbar-form{
+    position: relative;
+    width: 40em;
+    top: 30em;
+    left: 5em;
+    outline: 2px solid red;
+    display: inline-block;
+ }
+ label{
+     outline: 2px solid blue;
+     display: inline-block;
+     position: relative;
+     bottom: 3em;
+     left: 7em;
+ }
+ 
