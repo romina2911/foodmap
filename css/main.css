@@ -28,35 +28,32 @@
 .home-body{
     background-color: blanchedalmond;
 }
-.home-text{
-    color: tomato;
-    font-size: 50px;
-    font-weight: 700;
-    position: relative;
-    top: 0.3em;
-    text-align: center;
-}
+
 .map{
-    height: 20vh;
-    width: 25vw;
-    position: relative;
-    left: 7em;
-    top: 3em;
-    padding: 2em;
+    align-items: center;
+    height: 45vh;
+    padding-left: 1em;
+    margin-top: 6em;
   }
-.navbar-form{
-    position: relative;
-    width: 40em;
-    top: 30em;
-    left: 5em;
-    outline: 2px solid red;
-    display: inline-block;
+  .map iframe{
+    padding: 0;
+    height: 38vh;
+    border: 0;
+  }
+
+ .form-control{
+     outline: 2px solid green;
+     width: 17em;
+     display: inline-block;
+     position: relative;
+     bottom: 2em;
+     left:4.5em;
  }
  label{
      outline: 2px solid blue;
      display: inline-block;
      position: relative;
      bottom: 3em;
-     left: 7em;
+     left: 5em;
  }
  

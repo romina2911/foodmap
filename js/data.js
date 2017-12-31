@@ -48,7 +48,7 @@ var data = {
         'price':'$$$$$'
       },
       {
-        'name': 'Thai Kay',
+        'name': 'Budha',
         'photo': 'http://barcelonapaseodegracia.com/wp-content/uploads/2017/11/Restaurant-Thai-Barcelona.jpg',
         'district': 'Barranco',
         'stars': 4,
@@ -73,7 +73,7 @@ var data = {
         'price':'$$$$'
       },
       {
-        'name': 'Paquita la del Barrio',
+        'name': 'Paquita',
         'photo': 'http://www.unpublishedarticles.com/wp-content/uploads/2013/12/Mexican-Restaurant.jpg',
         'district': 'Comas',
         'stars': 5,
